@@ -9,3 +9,14 @@ D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVide
 D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.AssemblyInfo.cs
 D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.dll
 D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.pdb
+D:\Source code\aspnetcore-video\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.deps.json
+D:\Source code\aspnetcore-video\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.runtimeconfig.json
+D:\Source code\aspnetcore-video\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.runtimeconfig.dev.json
+D:\Source code\aspnetcore-video\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.dll
+D:\Source code\aspnetcore-video\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.pdb
+D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.csproj.CoreCompileInputs.cache
+D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.AssemblyInfoInputs.cache
+D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.AssemblyInfo.cs
+D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.dll
+D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.pdb
+D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.csprojResolveAssemblyReference.cache

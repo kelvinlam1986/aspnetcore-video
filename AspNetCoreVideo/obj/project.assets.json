@@ -13132,11 +13132,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\WebAPi\\AspNetCoreVideo\\AspNetCoreVideo\\AspNetCoreVideo.csproj",
+      "projectUniqueName": "D:\\Source code\\aspnetcore-video\\AspNetCoreVideo\\AspNetCoreVideo.csproj",
       "projectName": "AspNetCoreVideo",
-      "projectPath": "D:\\WebAPi\\AspNetCoreVideo\\AspNetCoreVideo\\AspNetCoreVideo.csproj",
+      "projectPath": "D:\\Source code\\aspnetcore-video\\AspNetCoreVideo\\AspNetCoreVideo.csproj",
       "packagesPath": "C:\\Users\\Minh Lam\\.nuget\\packages\\",
-      "outputPath": "D:\\WebAPi\\AspNetCoreVideo\\AspNetCoreVideo\\obj\\",
+      "outputPath": "D:\\Source code\\aspnetcore-video\\AspNetCoreVideo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

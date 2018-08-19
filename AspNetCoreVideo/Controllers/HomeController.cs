@@ -1,4 +1,5 @@
-﻿using AspNetCoreVideo.Services;
+﻿using AspNetCoreVideo.Entities;
+using AspNetCoreVideo.Services;
 using AspNetCoreVideo.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -51,6 +52,19 @@ namespace AspNetCoreVideo.Controllers
         [HttpPost]
         public IActionResult Create(VideoEditViewModel model)
         {
+            if (ModelState.IsValid)
+            {
+                var video = new Video
+                {
+                    Title = model.Title,
+                    Genre = model.Genre
+                };
+
+                _videos.Add(video);
+
+                return RedirectToAction("Details", new { id = video.Id });
+            }
+
             return View();
         }
     }
