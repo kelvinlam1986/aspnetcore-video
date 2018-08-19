@@ -1,0 +1,11 @@
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.deps.json
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.runtimeconfig.json
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.runtimeconfig.dev.json
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.dll
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.pdb
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.csprojResolveAssemblyReference.cache
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.csproj.CoreCompileInputs.cache
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.AssemblyInfoInputs.cache
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.AssemblyInfo.cs
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.dll
+D:\WebAPi\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.pdb
