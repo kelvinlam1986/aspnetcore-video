@@ -20,3 +20,4 @@ D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCo
 D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.dll
 D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.pdb
 D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.csprojResolveAssemblyReference.cache
+D:\Source code\aspnetcore-video\AspNetCoreVideo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
