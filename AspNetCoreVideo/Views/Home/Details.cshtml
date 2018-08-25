@@ -1,8 +1,14 @@
-﻿@model AspNetCoreVideo.ViewModels.VideoViewModel
+﻿@model VideoViewModel
 
-<title>Video</title>
+@{
+    ViewBag.Title = "Details";
+}
+
 <body>
     <div>Id: @Model.Id</div>
     <div>Title: @Model.Title</div>
     <div>Genre: @Model.Genre</div>
 </body>
+
+
+@section footer{ <div>This is the Details footer</div> }
