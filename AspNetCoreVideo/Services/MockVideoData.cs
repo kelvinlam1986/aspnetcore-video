@@ -25,6 +25,11 @@ namespace AspNetCoreVideo.Services
             _videos.Add(newVideo);
         }
 
+        public int Commit()
+        {
+            return 0;
+        }
+
         public Video Get(int id)
         {
             return _videos.FirstOrDefault(x => x.Id == id);

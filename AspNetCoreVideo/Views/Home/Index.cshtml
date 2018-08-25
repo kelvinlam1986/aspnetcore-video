@@ -1,19 +1,17 @@
 ﻿@model IEnumerable<VideoViewModel>
-@{ 
+@{
     ViewBag.Title = "Home";
 }
-<table>
-    @foreach (var video in Model)
-    {
+
+@foreach (var video in Model)
+{
     <tr>
-        <td>@Html.ActionLink(video.Id.ToString(), "Details", new { id = video.Id })</td>
-        <td>@video.Title</td>
-        <td>@video.Genre</td>
+        @Html.Partial("_Video", video)
     </tr>
+}
 
-    }
-
+<div>
     <a asp-action="Create">Create</a>
-</table>
 
-@section footer{ <div>This is the Index footer</div> }
+</div>
+

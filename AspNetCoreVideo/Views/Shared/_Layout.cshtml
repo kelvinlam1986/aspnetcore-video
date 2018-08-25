@@ -10,5 +10,6 @@
         @RenderBody()
     </div>
     <footer>@RenderSection("footer", false)</footer>
+    @await Component.InvokeAsync("Message")
 </body>
 </html>
