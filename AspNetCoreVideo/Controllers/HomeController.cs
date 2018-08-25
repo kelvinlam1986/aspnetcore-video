@@ -18,7 +18,6 @@ namespace AspNetCoreVideo.Controllers
             this._videos = videos;
         }
 
-        [AllowAnonymous]
         public ViewResult Index()
         {
             var model = _videos.GetAll().Select(video => new VideoViewModel

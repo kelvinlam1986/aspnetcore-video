@@ -1,9 +1,10 @@
 ﻿using AspNetCoreVideo.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace AspNetCoreVideo.Data
 {
-    public class VideoDbContext : DbContext
+    public class VideoDbContext : IdentityDbContext<User>
     {
         public VideoDbContext(DbContextOptions<VideoDbContext> options) : base(options)
         {
